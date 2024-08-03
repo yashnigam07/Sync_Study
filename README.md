@@ -17,7 +17,7 @@ A modern and responsive website for StudySync, built with HTML, CSS, and JavaScr
 
 ## Live Demo
 
-Check out the live demo of the StudySync website [here](https://your-live-demo-link.com).
+Check out the live demo of the StudySync website [here](https://yashnigam07.github.io/Sync_Study/).
 
 ## Installation
 
